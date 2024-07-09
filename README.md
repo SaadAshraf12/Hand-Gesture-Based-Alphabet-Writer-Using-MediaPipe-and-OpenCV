@@ -1,0 +1,2 @@
+# Hand-Gesture-Based-Alphabet-Writer-Using-MediaPipe-and-OpenCV
+This project uses MediaPipe and OpenCV to create a hand gesture-based alphabet writer. The webcam captures hand landmarks to recognize gestures. The "write" gesture cycles through alphabet letters, while the "next" gesture appends the current letter to the text. This provides an interactive way to write letters and form words using hand movements.
